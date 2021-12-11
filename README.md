@@ -8,3 +8,6 @@ The tracker uses an Arduino shield, laser cut woods, a LDRs board, and code.
 
 ![fig  4](https://user-images.githubusercontent.com/82357029/145691624-9f203e6e-9e5f-4de6-9f28-ea645650e689.png)
 ![fig  4_](https://user-images.githubusercontent.com/82357029/145691630-bc1e9db5-d6d5-44cb-a0db-9ed3ebf3e0ec.png)
+
+https://user-images.githubusercontent.com/82357029/145691795-90d8ac6b-0a46-4733-9155-2cdc6e087e2f.mp4
+
